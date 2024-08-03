@@ -150,5 +150,11 @@ Alınan kararlar:
 
 # Sprint 3
 
+- Objelerin boyutlandırılması bitti
+- Ses müzik kullanılacak mı karar verildi
+- Ürün logosu yapıldı
+- - Ürün için ses ve müzik kullanılmasına karar verildi, uygun telifsiz müzikler seçildi
 ---
-.
+[![dRG3Lue.md.png](https://iili.io/dRG3Lue.md.png)](https://freeimage.host/i/dRG3Lue)
+[![dRGF5oG.md.png](https://iili.io/dRGF5oG.md.png)](https://freeimage.host/i/dRGF5oG)
+[![dRGFAts.md.png](https://iili.io/dRGFAts.md.png)](https://freeimage.host/i/dRGFAts)
